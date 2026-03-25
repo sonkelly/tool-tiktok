@@ -1,7 +1,7 @@
 {
-    "name": "tiktok-downloader",
+    "name": "ttdown",
     "version": "1.0.0",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "start": "node server.js"
     },
@@ -10,6 +10,8 @@
     "license": "ISC",
     "description": "",
     "dependencies": {
-        "@playwright/test": "^1.58.2"
+        "axios": "^1.13.6",
+        "cors": "^2.8.6",
+        "express": "^5.2.1"
     }
 }
