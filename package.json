@@ -1,0 +1,16 @@
+{
+    "name": "tiktok-downloader",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "postinstall": "npx playwright install"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "@playwright/test": "^1.58.2"
+    }
+}

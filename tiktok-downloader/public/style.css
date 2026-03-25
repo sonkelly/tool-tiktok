@@ -1,0 +1,289 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #040817;
+}
+
+
+/* header */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    background: #5b6cff;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+
+/* grid layout */
+
+.grid {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+}
+
+
+/* card */
+
+.card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* thumbnail 9:16 */
+
+.thumb {
+    width: 100%;
+    aspect-ratio: 9/16;
+    object-fit: cover;
+}
+
+
+/* content */
+
+.card-body {
+    padding: 10px;
+}
+
+.title {
+    font-size: 14px;
+    height: 40px;
+    overflow: hidden;
+}
+
+.status {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.actions {
+    display: flex;
+    gap: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+}
+
+button.down {
+    padding: 8px 12px;
+    border: none;
+    background: #5b6cff;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+button.downAll {
+    padding: 8px 12px;
+    border: none;
+    background: hsl(141, 100%, 29%);
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+button.setFD {
+    padding: 8px 12px;
+    border: none;
+    background: hsl(32, 100%, 56%);
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+
+/* grid layout */
+
+.grid {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 20px;
+}
+
+
+/* card */
+
+.card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* thumbnail 9:16 */
+
+.thumb {
+    width: 100%;
+    aspect-ratio: 9/16;
+    object-fit: cover;
+}
+
+
+/* content */
+
+.card-body {
+    padding: 10px;
+}
+
+.title {
+    font-size: 14px;
+    height: 40px;
+    overflow: hidden;
+}
+
+.status {
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+
+/* card layout */
+
+.card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+
+/* left content */
+
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+/* status badge */
+
+.status {
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    width: fit-content;
+    font-weight: bold;
+}
+
+
+/* trạng thái */
+
+.status-idle {
+    background: #eee;
+    color: #666;
+}
+
+.status-downloading {
+    background: #ffe7a3;
+    color: #a87400;
+}
+
+.status-done {
+    background: #c8f7d1;
+    color: #1e8e3e;
+}
+
+.status-error {
+    background: #ffd6d6;
+    color: #c62828;
+}
+
+
+/* button */
+
+.download-btn {
+    background: #5b6cff;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.white_text {
+    color: white;
+}
+
+.title-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.copy-btn {
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+
+/* chia 2 bên */
+
+.left-panel {
+    width: 65%;
+}
+
+.right-panel {
+    width: 35%;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    height: 90vh;
+}
+
+
+/* thumb bên phải */
+
+#single-thumb {
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 70vh;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+/* title */
+
+#single-title {
+    margin-top: 10px;
+    font-size: 14px;
+}

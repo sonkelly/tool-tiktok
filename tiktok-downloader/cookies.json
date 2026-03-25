@@ -1,0 +1,87 @@
+{
+  "cookies": [
+    {
+      "name": "ttwid",
+      "value": "1%7CA2RVjby8cVWS1f7rpAYYn-bYwcMn-5uKP_OVOAN_ttI%7C1774150321%7Cdb49e5ed1264a0cf25a53eb51f7ef8d3ad1b37e4122405c19d73adbb0d287735",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1805254321.894641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tt_csrf_token",
+      "value": "udmBoVBv-YMO2eL9W71s2GkO_N30hbDBDfAs",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tt_chain_token",
+      "value": "lpxnKKPdBHgFbL41MjZ0oQ==",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1789837011.643944,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "msToken",
+      "value": "fusp9et_KXPWB-uoNniv7m2B5IQEZu4oV3W3rgKlq0wrZT1QpzB47kzI643MST_U8MYVkq6-A2wPGsDJT2Y1LDFWaRVgvxP0llaqSBouxVmQ2lCZAwTVNenm6VuD6Q==",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1775149011.644057,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.tiktok.com",
+      "localStorage": [
+        {
+          "name": "__tea_cache_refer_1988",
+          "value": "{\"refer_key\":\"\",\"refer_title\":\"TikTok - Make Your Day\",\"refer_manual_key\":\"\",\"routeChange\":false}"
+        },
+        {
+          "name": "__tea_cache_first_1988",
+          "value": "1"
+        },
+        {
+          "name": "g_ven",
+          "value": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F82) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+        },
+        {
+          "name": "xmst",
+          "value": "svOPuvsqBGfFRUAgzx0dbBG_GsXMOJXvaM3MxcBEdk0NgewjHrPxMDHYOfY13ztZgRBMthqYjWXZnSnZiwIoPeKwgAw7Z9BrGuT5AIBb-aFDyZJK-Te4XJAzpZVTyA=="
+        },
+        {
+          "name": "PUMBAA_FREQ",
+          "value": "{\"AbsoluteOrientationSensor\":2,\"Accelerometer\":2,\"addEventListener('devicemotion')\":0.01,\"addEventListener('deviceorientation')\":0.01,\"addEventListener('deviceorientationabsolute')\":0.1,\"addEventListener('MozOrientation')\":2,\"document.addEventListener('copy')\":0,\"document.addEventListener('cut')\":0,\"document.addEventListener('paste')\":0,\"navigator.geolocation.clearWatch\":2,\"document.cookie\":0,\"navigator.credentials.create\":0,\"CookieStore.delete\":0,\"document.execCommand('cut')\":0,\"document.execCommand('copy')\":2,\"document.execCommand('paste')\":2,\"CookieStore.get\":0,\"navigator.credentials.get\":0,\"CookieStore.getAll\":0,\"navigator.getBattery\":0,\"navigator.geolocation.getCurrentPosition\":2,\"navigator.mediaDevices.getDisplayMedia\":2,\"navigator.mediaDevices.getUserMedia\":2,\"navigator.getUserMedia\":2,\"GravitySensor\":2,\"Gyroscope\":2,\"LinearAccelerationSensor\":2,\"Magnetometer\":2,\"navigator.mozGetUserMedia\":2,\"navigator.mozNotification\":2,\"navigator.mozVibrate\":2,\"navigator.msVibrate\":2,\"Notification\":2,\"ondevicemotion\":0,\"ondeviceorientation\":2,\"ondeviceorientationabsolute\":2,\"open\":0,\"OrientationSensor\":0,\"PaymentRequest\":0,\"navigator.clipboard.read\":0,\"navigator.clipboard.readText\":2,\"document.referrer\":0.0001,\"RelativeOrientationSensor\":2,\"RTCPeerConnection\":0,\"screen\":0,\"CookieStore.set\":0,\"navigator.share\":0,\"navigator.userAgent\":0,\"navigator.vibrate\":2,\"navigator.geolocation.watchPosition\":2,\"navigator.webkitGetUserMedia\":2,\"webkitNotification\":2,\"navigator.webkitVibrate\":2,\"WebSocket\":0,\"navigator.clipboard.write\":0,\"navigator.clipboard.writeText\":2,\"network_ga\":2}"
+        },
+        {
+          "name": "HYBRID_SLARDAR_WEBtiktok_pns_web_runtime",
+          "value": "{\"userId\":\"c95d0bcf-2a7e-44da-a4e0-c15c37de0e6e\",\"deviceId\":\"13ae3908-3c57-453c-9855-8d8780d2be0b\"}"
+        },
+        {
+          "name": "__tea_cache_tokens_1988",
+          "value": "{\"_type_\":\"default\",\"user_unique_id\":\"7619917579356079633\",\"timestamp\":1774154495665}"
+        },
+        {
+          "name": "msToken",
+          "value": "svOPuvsqBGfFRUAgzx0dbBG_GsXMOJXvaM3MxcBEdk0NgewjHrPxMDHYOfY13ztZgRBMthqYjWXZnSnZiwIoPeKwgAw7Z9BrGuT5AIBb-aFDyZJK-Te4XJAzpZVTyA=="
+        },
+        {
+          "name": "g_exp",
+          "value": "1774154185865"
+        }
+      ]
+    }
+  ]
+}
